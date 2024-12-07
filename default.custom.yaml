@@ -8,7 +8,7 @@ patch:
     - ascii_punct
     - simplification
     - zh_hans
-  menu/page_size: 5
+  menu/page_size: 7
   ascii_composer:
     good_old_caps_lock: true
     switch_key:
