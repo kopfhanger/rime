@@ -1,12 +1,10 @@
 # encoding: utf-8
-
 ---
 name: english
 version: "0.2"
 sort: original
 use_preset_vocabulary: false
 ...
-
 aalii	aalii
 aardvark	aardvark
 aardwolf	aardwolf
@@ -9616,6 +9614,7 @@ cosmopolite	cosmopolite
 cosmorama	cosmorama
 cosmos	cosmos
 coss	coss
+cosserat	cosserat
 cosset	cosset
 cost	cost
 costa	costa
@@ -13805,6 +13804,7 @@ elope	elope
 eloquence	eloquence
 eloquent	eloquent
 else	else
+elsevier	elsevier
 elsewhere	elsewhere
 elucidate	elucidate
 elude	elude
@@ -22899,6 +22899,7 @@ jade	jade
 jaded	jaded
 jadeite	jadeite
 jaeger	jaeger
+jager   jager
 jagged	jagged
 jaggery	jaggery
 jaggy	jaggy
@@ -23614,6 +23615,7 @@ koodoo	koodoo
 kook	kook
 kookaburra	kookaburra
 kooky	kooky
+kopfhanger	kopfhanger
 kopeck	kopeck
 koph	koph
 kopje	kopje
